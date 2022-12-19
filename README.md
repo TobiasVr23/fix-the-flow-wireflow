@@ -1,16 +1,17 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
-
+Plant-post formulier
 ## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+Een bewoner van Amsterdam oost die een plant op de website wil posten.
 
 ## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+Als buurtbewoner van Amsterdam Oost wil ik een stekje kunnen toevoegen met behulp van een formulier #9
 
 ## Wireflow
-<!-- Toon de wireflow -->
+![unnamed](https://user-images.githubusercontent.com/112855854/208403553-9b63bda3-58a6-45f9-b133-f299ba174f8d.jpg)
+![unnamed](https://user-images.githubusercontent.com/112855854/208403576-f4011037-f780-4c1b-902b-273b0f88a5d1.jpg)
+
 
  
 
